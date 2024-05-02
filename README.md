@@ -43,5 +43,5 @@ Discount factor (gamma)
 # Results:
 During training, monitor the console output for the agent's performance metrics. Once training is complete, evaluate the trained agent's gameplay in the game environment.
 
-
+<img src="https://github.com/Meghana1301/Implementing-RL-in-Gaming-Super-Mario-/blob/main/mario.png" alt="Girl in a jacket" width="500" height="600">
 
